@@ -7,6 +7,6 @@ ESP32s3 arduino project for sending and receiving IR signals.
 
 | Visualisation        |32 Button IR Remote that works|
 |----------------------|:----------------------------:|
-| ![Visual](image.png) |  ![Visual](image.png)        |
+| ![Visual](image.png) |  ![Visual](remote.jpeg)        |
 
     
